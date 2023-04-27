@@ -1,6 +1,6 @@
 {
   "name": "@dream-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dream-cli-dev core",
   "author": "zhaojing834 <zhaojing834@jd.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@dream-cli-dev/utils": "^1.0.1"
+    "@dream-cli-dev/utils": "^1.0.2"
   },
   "gitHead": "6097a634b41b56af97c9c0af2658746906788d59"
 }
