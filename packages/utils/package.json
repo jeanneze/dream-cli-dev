@@ -1,0 +1,22 @@
+{
+  "name": "@dream-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "dream-cli-dev utils",
+  "author": "zhaojing834 <zhaojing834@jd.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.m.jd.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/utils.test.js"
+  }
+}

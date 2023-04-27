@@ -1,0 +1,25 @@
+{
+  "name": "@dream-cli-dev/core",
+  "version": "1.0.0",
+  "description": "dream-cli-dev core",
+  "author": "zhaojing834 <zhaojing834@jd.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.m.jd.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "dependencies": {
+    "@dream-cli-dev/utils": "^1.0.0"
+  }
+}
