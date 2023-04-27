@@ -1,6 +1,6 @@
 {
   "name": "@dream-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "dream-cli-dev core",
   "author": "zhaojing834 <zhaojing834@jd.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@dream-cli-dev/utils": "^1.0.0"
+    "@dream-cli-dev/utils": "^1.0.1"
   }
 }
