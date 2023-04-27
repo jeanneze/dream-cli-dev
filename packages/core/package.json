@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@dream-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "6097a634b41b56af97c9c0af2658746906788d59"
 }
