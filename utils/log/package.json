@@ -1,0 +1,35 @@
+{
+  "name": "@dream-cli-dev/log",
+  "version": "1.0.3",
+  "description": "dream-cli-dev log",
+  "keywords": [
+    "log"
+  ],
+  "author": "zhaojing834 <zhaojing834@jd.com>",
+  "homepage": "https://github.com/jeanneze/dream-cli-dev#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanneze/dream-cli-dev.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@dream-cli-dev/log.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/jeanneze/dream-cli-dev/issues"
+  },
+  "dependencies": {
+    "npmlog": "^7.0.1"
+  }
+}
